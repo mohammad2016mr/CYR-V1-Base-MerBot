@@ -1,16 +1,13 @@
-# <p align="center">merbot
+## <p align="center">CYR-V1
+
+#  <p align="center">Base MerBot
 
 <p align="center">**A Telegram Group Administration Bot**
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/wiki/rizaumami/merbot/_images/merbot.png" width="512" alt="Merbot illustration" title="Merbot illustration">
 
-**Merbot** is a dedicated Telegram group administration bot based on [telegram-bot](https://github.com/yagop/telegram-bot).
+**CYR-V1** is a dedicated Telegram group administration bot based on [telegram-bot](https://github.com/yagop/telegram-bot) and [MerBot](https://github.com/rizaumami/merbot).
 
-Consult [Merbot's wiki](https://github.com/rizaumami/merbot/wiki) for documentation.
-
-Please open a [github issue](https://github.com/rizaumami/merbot/issues) if you found an issue with `merbot`.
-
-***
-
-_Thanks to [rizkymsyahputra](https://github.com/rizkymsyahputra) for the awesome merbot artwork_.
+## <p align="center">CYR-V2
+# <p align="center">#Opening_Soon :)
